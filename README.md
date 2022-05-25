@@ -1,7 +1,3 @@
-# Catstagram
-
-In this practice, you'll be building a multi-day project called Catstagram!
-
 ## Background and Context
 
 Here are the features of Catstagram:
@@ -17,9 +13,9 @@ listed above can be performed without requiring a page reload. For example,
 when a new comment is created, the comment smoothly gets added to the page
 without requiring the website to reload.
 
-In building Catstagram, you will master the fundamentals of interacting with
-APIs and implementing DOM manipulation behaviors in response to API calls.
-This project will be a 3 day project.
+In building Catstagram, the fundamentals of interacting with
+APIs and implementing DOM manipulation behaviors in response to API calls are shown.
+
 
 ## Phases
 
